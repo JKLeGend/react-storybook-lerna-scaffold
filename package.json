@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "statefull-react-button": "^0.0.1",
+    "stateless-react-button": "^0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,8 +22,8 @@
     "@storybook/addon-links": "^3.3.13",
     "@storybook/addons": "^3.3.13",
     "@storybook/react": "^3.3.13",
-    "babel-core": "^6.26.0",
     "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",

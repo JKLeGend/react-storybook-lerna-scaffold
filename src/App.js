@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import StatefullReactButton from 'statefull-react-button';
+import StatelessReactButton from 'stateless-react-button';
 
 class App extends Component {
   render() {
@@ -13,6 +15,8 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <StatefullReactButton handleOnclick={() => {alert('haha')}} />
+        <StatelessReactButton handleOnclick={() => {alert('hehe')}} />
       </div>
     );
   }

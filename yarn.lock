@@ -5373,7 +5373,7 @@ lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
 
-"lodash@>=3.5 <5", lodash@^4.0.0, lodash@^4.1.0, lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.1, lodash@^4.3.0, lodash@~4.17.4:
+"lodash@>=3.5 <5", lodash@^4.0.0, lodash@^4.1.0, lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.4.0, lodash@~4.17.4:
   version "4.17.5"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
 
@@ -7764,6 +7764,18 @@ ssri@^5.2.4:
   resolved "https://registry.yarnpkg.com/ssri/-/ssri-5.2.4.tgz#9985e14041e65fc397af96542be35724ac11da52"
   dependencies:
     safe-buffer "^5.1.1"
+
+statefull-react-button@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/statefull-react-button/-/statefull-react-button-0.0.1.tgz#63d2fb86da3022d361d0f6f19a7b3055fe14efbb"
+  dependencies:
+    classnames "^2.2.5"
+
+stateless-react-button@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/stateless-react-button/-/stateless-react-button-0.0.1.tgz#efc5b250b81c7b1dd270879f52223a4a7138cf1c"
+  dependencies:
+    lodash "^4.4.0"
 
 "statuses@>= 1.3.1 < 2", statuses@~1.3.1:
   version "1.3.1"
